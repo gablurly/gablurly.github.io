@@ -76,7 +76,6 @@
             <br><br>
             And so, the tale of Nicholas, the <strong style="color: darkred; font-size: 24px;">N</strong>oble, <strong style="color: darkred; font-size: 24px;">I</strong>ntelligent, <strong style="color: darkred; font-size: 24px;">C</strong>harismatic, <strong style="color: darkred; font-size: 24px;">H</strong>eroic, <strong style="color: darkred; font-size: 24px;">O</strong>ptimistic, <strong style="color: darkred; font-size: 24px;">L</strong>oving, <strong style="color: darkred; font-size: 24px;">A</strong>dmirable, and <strong style="color: darkred; font-size: 24px;">S</strong>tellar pig, continued to resonate throughout the farm. His legacy was etched into the hearts of all who had the privilege of knowing him, a testament to the extraordinary impact one soul can have on an entire community.
         </p>
-
         <h2>
             Contact Information
         </h2>
