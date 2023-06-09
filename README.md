@@ -1,16 +1,6 @@
 <!DOCTYPE html>
 <html>
     <Head>
-        <title>
-            "The Unforgettable Adventures of Nicholas: When Pigs Bring Home the Bacon and the Laughs!"
-        </title>
-        <nav>
-            <ul>
-              <li><a href="#home">Home</a></li>
-              <li><a href="https://animalcaresanctuary.org/adoptable-animals/"">Family</a></li>
-              <li><a href="https://animalcaresanctuary.org/donate/#:~:text=We%20envision%20a%20world%20where%20all%20animals%20are,%24100%20helps%20spay%20or%20neuter%20a%20homeless%20pet">Donate</a></li>
-            </ul>
-        </nav>
         <style>
             nav {
                 background-color: #333;
