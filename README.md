@@ -1,49 +1,6 @@
 <!DOCTYPE html>
 <html>
     <Head>
-        <style>
-            nav {
-                background-color: #333;
-            }
-            nav ul {
-                list-style-type: none;
-                margin: 0;
-                padding: 0;
-            }
-            nav li {
-                display: inline-block;
-            }
-            nav li a {
-                display: block;
-                padding: 15px;
-                color: #fff;
-                text-decoration: none;
-            }
-            nav li a:hover {
-                background-color: #555;
-            }
-            h1 {
-                margin-left: 100px;
-                margin-right: 100px;
-                font-size: 24px;
-            }
-            h2 {
-                margin-left: 100px;
-                margin-right: 100px;
-                font-size: 24px;
-            }
-            img {
-                margin-left: 100px;
-                margin-right: 100px;
-                align-items: center;
-            }
-            p {
-                margin-left: 100px;
-                margin-right: 100px;
-                line-height: 1.5;
-                font-size: 18px;
-            }
-        </style>
     </Head>
     <body style="background-color: beige"; style="padding-left: 10">
         <h1>
